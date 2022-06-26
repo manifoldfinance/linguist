@@ -847,7 +847,7 @@
 	url = https://github.com/cdwilson/nesC.tmbundle
 [submodule "vendor/grammars/nix"]
 	path = vendor/grammars/nix
-	url = https://github.com/wmertens/sublime-nix
+	url = https://github.com/sambacha/nix-linguist
 [submodule "vendor/grammars/nu.tmbundle"]
 	path = vendor/grammars/nu.tmbundle
 	url = https://github.com/jsallis/nu.tmbundle
