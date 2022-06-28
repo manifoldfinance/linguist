@@ -1,0 +1,8 @@
+---
+name: stan-language-definitions
+version: d804a28d31c29cc31a3ca9508a8932f5c1d1c42a
+type: git_submodule
+homepage: https://github.com/jrnold/stan-language-definitions.git
+license: none
+licenses: []
+notices: []
