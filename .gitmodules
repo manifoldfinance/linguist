@@ -845,9 +845,9 @@
 [submodule "vendor/grammars/nesC"]
 	path = vendor/grammars/nesC
 	url = https://github.com/cdwilson/nesC.tmbundle
-[submodule "vendor/grammars/nix"]
-	path = vendor/grammars/nix
-	url = https://github.com/wmertens/sublime-nix
+[submodule "vendor/grammars/nix-linguist"]
+	path = vendor/grammars/nix-linguist
+	url = https://github.com/sambacha/nix-linguist.git
 [submodule "vendor/grammars/nu.tmbundle"]
 	path = vendor/grammars/nu.tmbundle
 	url = https://github.com/jsallis/nu.tmbundle
@@ -1194,6 +1194,9 @@
 [submodule "vendor/grammars/vscode-vlang"]
 	path = vendor/grammars/vscode-vlang
 	url = https://github.com/0x9ef/vscode-vlang
+[submodule "vendor/grammars/vscode-wren"]
+	path = vendor/grammars/vscode-wren
+	url = https://github.com/Nelarius/vscode-wren.git
 [submodule "vendor/grammars/vscode-yara"]
 	path = vendor/grammars/vscode-yara
 	url = https://github.com/infosec-intern/vscode-yara.git
